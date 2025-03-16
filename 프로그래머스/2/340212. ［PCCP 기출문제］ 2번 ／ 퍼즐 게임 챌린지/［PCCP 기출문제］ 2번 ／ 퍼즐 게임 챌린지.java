@@ -25,6 +25,6 @@ class Solution {
                 right = mid;
             }
         }
-        return (int)left;
+        return (int)left; 
     }
 }
