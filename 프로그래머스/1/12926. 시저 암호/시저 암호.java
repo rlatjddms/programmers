@@ -14,7 +14,7 @@ class Solution {
                     c += n;
                     if(c > 122) c -= 26;
                 }
-                answer += c;
+                answer += c; 
             }
         }
         
